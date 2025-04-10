@@ -1,0 +1,121 @@
+Id,Label,fideId,elo,top_player,location,lat,lng
+Magnus Carlsen,Magnus Carlsen,1503014,2857,True,Norway,62.0,10.0
+Ian Nepomniachtchi,Ian Nepomniachtchi,4168119,2707,True,Russian Federation,60.0,100.0
+Dmitry Jakovenko,Dmitry Jakovenko,4122356,2741,True,Russian Federation,60.0,100.0
+Igor Kovalenko,Igor Kovalenko,14117908,2644,True,Ukraine,49.0,32.0
+Vladimir Malakhov,Vladimir Malakhov,4120787,2707,True,Russian Federation,60.0,100.0
+Alexander Riazantsev,Alexander Riazantsev,4125029,2700,True,Russian Federation,60.0,100.0
+Alexey Dreev,Alexey Dreev,4100107,2668,True,Russian Federation,60.0,100.0
+Sergey Karjakin,Sergey Karjakin,14109603,2772,True,Russian Federation,60.0,100.0
+Alexander Grischuk,Alexander Grischuk,4126025,2785,True,Russian Federation,60.0,100.0
+Alexander Morozevich,Alexander Morozevich,4116992,2739,True,Russian Federation,60.0,100.0
+Evgeny Najer,Evgeny Najer,4118987,2626,True,Russian Federation,60.0,100.0
+Ni Hua,Ni Hua,8601160,2654,True,China,35.0,105.0
+Bu Xiangzhi,Bu Xiangzhi,8601445,2699,True,China,35.0,105.0
+Ernesto Inarkiev,Ernesto Inarkiev,4162722,2682,True,Russian Federation,60.0,100.0
+Bassem Amin,Bassem Amin,10601457,2635,True,Egypt,27.0,30.0
+Viswanathan Anand,Viswanathan Anand,5000017,2785,True,India,20.0,77.0
+Maxim Matlakov,Maxim Matlakov,4168003,2689,True,Russian Federation,60.0,100.0
+Daniil Dubov,Daniil Dubov,24126055,2614,True,Russian Federation,60.0,100.0
+Nikita Vitiugov,Nikita Vitiugov,4152956,2742,True,Russian Federation,60.0,100.0
+Sergei Movsesian,Sergei Movsesian,310204,2672,True,Armenia,40.0,45.0
+Yuriy Kryvoruchko,Yuriy Kryvoruchko,14109182,2707,True,Ukraine,49.0,32.0
+Arkadij Naiditsch,Arkadij Naiditsch,4650891,2705,True,Latvia,57.0,25.0
+Ivan Sokolov,Ivan Sokolov,14400030,2650,True,Bosnia and Herzegovina,44.0,18.0
+Pentala Harikrishna,Pentala Harikrishna,5007003,2726,True,India,20.0,77.0
+Evgeny Alekseev,Evgeny Alekseev,4138147,2675,True,Russian Federation,60.0,100.0
+Wang Yue,Wang Yue,8601429,2711,True,China,35.0,105.0
+Wei Yi,Wei Yi,8603405,2649,True,China,35.0,105.0
+Ding Liren,Ding Liren,8603677,2730,True,China,35.0,105.0
+Wang Hao,Wang Hao,8602883,2710,True,China,35.0,105.0
+Evgeny Tomashevsky,Evgeny Tomashevsky,4147235,2745,True,Russian Federation,60.0,100.0
+Alexander Khalifman,Alexander Khalifman,4100115,2613,True,Russian Federation,60.0,100.0
+Yu Yangyi,Yu Yangyi,8603820,2723,True,China,35.0,105.0
+Wesley So,Wesley So,5202213,2815,True,United States,38.0,-97.0
+Anish Giri,Anish Giri,24116068,2785,True,Netherlands,52.5,5.75
+Richárd Rapport,Richárd Rapport,738590,2698,True,Hungary,47.0,20.0
+Nodirbek Abdusattorov,Nodirbek Abdusattorov,14204118,2546,True,Uzbekistan,41.0,64.0
+Alexander Motylev,Alexander Motylev,4121830,2651,True,Russian Federation,60.0,100.0
+Fabiano Caruana,Fabiano Caruana,2020009,2818,True,United States,38.0,-97.0
+Hikaru Nakamura,Hikaru Nakamura,0,0,True,United States,38.0,-97.0
+Levon Aronian,Levon Aronian,0,0,True,Armenia,40.0,45.0
+Garry Kasparov,Garry Kasparov,4100018,2812,True,Russian Federation,60.0,100.0
+Veselin Topalov,Veselin Topalov,2900084,2736,True,Bulgaria,43.0,25.0
+Alireza Firouzja,Alireza Firouzja,12573981,2702,True,France,46.0,2.0
+Maxime Vachier-Lagrave,Maxime Vachier-Lagrave,0,2788,True,France,46.0,2.0
+Shakhriyar Mamedyarov,Shakhriyar Mamedyarov,13401319,2767,True,Azerbaijan,40.5,47.5
+Dmitry Andreikin,Dmitry Andreikin,0,2720,True,Russian Federation,60.0,100.0
+Sergei Rublevsky,Sergei Rublevsky,0,2702,True,Russian Federation,60.0,100.0
+David Navara,David Navara,0,2691,True,Czechia,,
+Peter Svidler,Peter Svidler,0,2765,True,Russian Federation,60.0,100.0
+Jeffery Xiong,Jeffery Xiong,0,2652,True,United States,38.0,-97.0
+Teimour Radjabov,Teimour Radjabov,0,2788,True,Azerbaijan,40.5,47.5
+Samuel Sevian,Samuel Sevian,0,2666,True,United States,38.0,-97.0
+Ivan Cheparinov,Ivan Cheparinov,0,2681,True,Bulgaria,43.0,25.0
+Alexey Sarana,Alexey Sarana,0,2630,True,Russian Federation,60.0,100.0
+Baadur Jobava,Baadur Jobava,0,2711,True,Georgia,42.0,43.5
+Jan-Krzysztof Duda,Jan-Krzysztof Duda,1170546,2730,True,Poland,52.0,20.0
+Pavel Eljanov,Pavel Eljanov,0,2742,True,Ukraine,49.0,32.0
+Boris Gelfand,Boris Gelfand,0,2738,True,Belarus,53.0,28.0
+Vladimir Kramnik,Vladimir Kramnik,0,2791,True,Russian Federation,60.0,100.0
+Alexei Shirov,Alexei Shirov,0,2713,True,Latvia,57.0,25.0
+Krishnan Sasikiran,Krishnan Sasikiran,0,2639,True,India,20.0,77.0
+Ferenc Berkes,Ferenc Berkes,0,2619,True,Hungary,47.0,20.0
+Vladislav Artemiev,Vladislav Artemiev,24101605,2746,True,Russian Federation,60.0,100.0
+Ruslan Ponomariov,Ruslan Ponomariov,0,2694,True,Ukraine,49.0,32.0
+Andrey Esipenko,Andrey Esipenko,0,2564,True,Russian Federation,60.0,100.0
+Michael Adams,Michael Adams,0,2615,True,United Kingdom,54.0,-2.0
+Laurent Fressinet,Laurent Fressinet,0,2717,True,France,46.0,2.0
+Viktor Bologan,Viktor Bologan,0,2681,True,"""Moldova",,
+Denis Khismatullin,Denis Khismatullin,0,2651,True,Russian Federation,60.0,100.0
+Andrei Volokitin,Andrei Volokitin,0,2639,True,Ukraine,49.0,32.0
+Markus Ragger,Markus Ragger,0,2632,True,Austria,47.3333,13.3333
+Anatoly Karpov,Anatoly Karpov,0,2670,True,Russian Federation,60.0,100.0
+Sanan Sjugirov,Sanan Sjugirov,0,2643,True,Russian Federation,60.0,100.0
+Rauf Mamedov,Rauf Mamedov,0,2709,True,Azerbaijan,40.5,47.5
+Gata Kamsky,Gata Kamsky,0,2762,True,United States,38.0,-97.0
+Peter Leko,Peter Leko,0,2723,True,Hungary,47.0,20.0
+Kirill Alekseenko,Kirill Alekseenko,0,2638,True,Russian Federation,60.0,100.0
+Parham Maghsoodloo,Parham Maghsoodloo,0,2584,True,Iran,,
+Gabriel Sargissian,Gabriel Sargissian,0,2686,True,Armenia,40.0,45.0
+Vladimir Akopian,Vladimir Akopian,0,2691,True,Armenia,40.0,45.0
+Alexander Moiseenko,Alexander Moiseenko,0,2707,True,Ukraine,49.0,32.0
+Bogdan-Daniel Deac,Bogdan-Daniel Deac,1226380,2566,True,Romania,46.0,25.0
+Anton Korobov,Anton Korobov,0,2708,True,Ukraine,49.0,32.0
+Alexander Onischuk,Alexander Onischuk,0,2666,True,Ukraine,49.0,32.0
+Zurab Azmaiparashvili,Zurab Azmaiparashvili,0,2655,True,Georgia,42.0,43.5
+Maxim Rodshtein,Maxim Rodshtein,0,2623,True,Russian Federation,60.0,100.0
+Samuel Shankland,Samuel Shankland,2004887,2705,True,United States,38.0,-97.0
+Vugar Gashimov,Vugar Gashimov,0,2658,True,Azerbaijan,40.5,47.5
+Emil Sutovsky,Emil Sutovsky,0,2650,True,Azerbaijan,40.5,47.5
+Adhiban Baskaran,Adhiban Baskaran,5018471,2655,True,India,20.0,77.0
+Vincent Keymer,Vincent Keymer,0,2502,True,Germany,51.0,9.0
+Boris Grachev,Boris Grachev,0,2654,True,Russian Federation,60.0,100.0
+Arjun Erigaisi,Arjun Erigaisi,0,2458,True,India,20.0,77.0
+Evgeny Bareev,Evgeny Bareev,0,2655,True,Russian Federation,60.0,100.0
+Gukesh Dommaraju,Gukesh Dommaraju,46616543,2547,True,India,20.0,77.0
+Liviu-Dieter Nisipeanu,Liviu-Dieter Nisipeanu,0,2689,True,ROmania,46.0,25.0
+Romain Edouard,Romain Edouard,0,2625,True,France,46.0,2.0
+Vasyl Ivanchuk,Vasyl Ivanchuk,14100010,2726,True,Ukraine,49.0,32.0
+Ray Robson,Ray Robson,0,2670,True,United States,38.0,-97.0
+Alexander Areshchenko,Alexander Areshchenko,0,2682,True,Ukraine,49.0,32.0
+Zahar Efimenko,Zahar Efimenko,0,2701,True,Ukraine,49.0,32.0
+David Howell,David Howell,410608,2644,True,United Kingdom,54.0,-2.0
+Valery Salov,Valery Salov,0,2685,True,Russian Federation,60.0,100.0
+Rameshbabu Praggnanandhaa,Rameshbabu Praggnanandhaa,25059530,2530,True,India,20.0,77.0
+Vadim Milov,Vadim Milov,0,2681,True,Russian Federation,60.0,100.0
+Igor Lysyj,Igor Lysyj,4150120,2594,True,Russian Federation,60.0,100.0
+Gawain Jones,Gawain Jones,409561,2702,True,United Kingdom,54.0,-2.0
+Vladislav Kovalev,Vladislav Kovalev,0,2687,True,Belarus,53.0,28.0
+Radosław Wojtaszek,Radosław Wojtaszek,1118358,2750,True,Poland,52.0,20.0
+Li Chao,Li Chao,0,2711,True,China,35.0,105.0
+Hans Niemann,Hans Niemann,0,2466,True,United States,38.0,-97.0
+Alexander Beliavsky,Alexander Beliavsky,14602377,2651,True,Ukraine,49.0,32.0
+Mikhail Tal,Mikhail Tal,0,2585,True,Latvia,57.0,25.0
+Luke McShane,Luke McShane,404853,2677,True,United Kingdom,54.0,-2.0
+Javokhir Sindarov,Javokhir Sindarov,14205483,2526,True,Uzbekistan,41.0,64.0
+Ilya Smirin,Ilya Smirin,2801990,2607,True,Belarus,53.0,28.0
+Nigel Short,Nigel Short,400025,2652,True,United Kingdom,54.0,-2.0
+Vladimir Fedoseev,Vladimir Fedoseev,0,2352,True,Russian Federation,60.0,100.0
+David Antón Guijarro,David Antón Guijarro,0,2574,True,Spain,40.0,-4.0
+Michał Krasenkow,Michał Krasenkow,1113100,2636,True,Russian Federation,60.0,100.0
